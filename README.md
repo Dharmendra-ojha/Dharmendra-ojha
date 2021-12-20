@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Dharmendra-ojha
+# 👋 Hello,There!
+- 😀 Hi, I’m @Dharmendra-ojha
 - 👀 I’m interested in python programming 
 - 🌱 I’m currently learning python
 - 🇮🇳 I'm from India
