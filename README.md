@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning python
 - 🇮🇳 I'm from India
 
-![alt text](http://GitHub.com/Dharmendra-ojha/python_logo.png)
+![python_logo](https://user-images.githubusercontent.com/96345964/147189847-d8a82c88-3e66-4427-b7a8-0445673c8c85.png)
+
 
 
 <!---
