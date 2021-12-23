@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning python
 - 🇮🇳 I'm from India
 
+![alt text](http://GitHub.com/Dharmendra-ojha/python_logo.png)
+
 
 <!---
 Dharmendra-ojha/Dharmendra-ojha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
