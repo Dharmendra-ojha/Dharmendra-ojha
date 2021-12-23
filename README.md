@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning python
 - 🇮🇳 I'm from India
 
-[![Dharmendra ojha's stata](https://github-readme-stats.vercel.app/api?username=Dharmendra-ojha)](https://github.com/Dharmendra-ojha/github-readme-stats)
+[![Dharmendra ojha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharmendra-ojha)](https://github.com/Dharmendra-ojha/github-readme-stats)
 
 
 ![python_logo](https://user-images.githubusercontent.com/96345964/147189847-d8a82c88-3e66-4427-b7a8-0445673c8c85.png)
